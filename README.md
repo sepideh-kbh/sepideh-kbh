@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sepideh-kbh&label=Profile%20views&color=0e75b6&style=flat" alt="sepideh-kbh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sepideh-kbh" alt="sepideh-kbh" /></a> </p>
-
 - 🌱 I’m currently learning **Frontend new Technologies**
 
 - 💬 Ask me about **Typescript, React, Next, SCSS**
